@@ -1,0 +1,12 @@
+com\microsoft\pnp\client\loganalytics\LogAnalyticsClient.class
+com\microsoft\pnp\client\loganalytics\LogAnalyticsSendBufferTask.class
+com\microsoft\pnp\client\loganalytics\LogAnalyticsSendBufferClient.class
+com\microsoft\pnp\client\GenericSendBuffer$Listener.class
+com\microsoft\pnp\client\loganalytics\LogAnalyticsClient$LogAnalyticsHttpHeaders.class
+com\microsoft\pnp\client\GenericSendBuffer.class
+com\microsoft\pnp\client\GenericSendBufferTask.class
+com\microsoft\pnp\logging\loganalytics\LogAnalyticsAppender.class
+com\microsoft\pnp\logging\loganalytics\SparkLookup.class
+META-INF\org\apache\logging\log4j\core\config\plugins\Log4j2Plugins.dat
+com\microsoft\pnp\LogAnalyticsEnvironment.class
+com\microsoft\pnp\client\loganalytics\LogAnalyticsSendBuffer.class
